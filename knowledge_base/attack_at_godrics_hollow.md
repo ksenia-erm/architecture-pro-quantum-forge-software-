@@ -1,0 +1,45 @@
+# Attack at Godric's Hollow
+
+The attack at Godric's Hollow took place on 31 October (Hallowe'en) 1981, which was a Wednesday. The attack happened not even a week after Peter Pettigrew was made the Potters' Secret Keeper. Pettigrew then betrayed the Potters and gave up their location to Lord Voldemort.
+
+Having been told half of the prophecy by Severus Snape, Voldemort came to believe his mortal enemy to be Harry Potter. He travelled to the Potters' home in Godric's Hollow and murdered James and Lily Potter, who died protecting infant Harry. When he attempted to murder Harry, Lily's loving sacrifice allowed Harry to live and rebounded Voldemort's Killing Curse. The rebounded curse caused a shred of Voldemort's already mutilated soul to be ripped from his destroyed body.
+
+This event marked the end of the First Wizarding War. It also sealed Harry's fate as 'The Boy Who Lived', via a lightning-shaped scar on his forehead, and the fact that he was now the only known survivor of the Killing Curse.
+
+History
+
+Early in 1980, Sybill Trelawney met Albus Dumbledore in the Hog's Head to interview for the Divination professorship at Hogwarts School of Witchcraft and Wizardry. During the interview, Trelawney slipped into a trance and delivered a prophecy. This prophecy referred to a young boy born at the end of July whose parents had defied Voldemort three times. It said that the boy would have power that Lord Voldemort lacked and that the boy would be able to defeat the Dark Lord.
+
+Death Eater Severus Snape was eavesdropping at the keyhole, but he was interrupted by the barman, but not before he had heard half of the prophecy. Immediately, Snape took everything he had heard to Voldemort, who decided that the boy was Harry Potter, although it could very well have been Neville Longbottom. When Snape found out that Voldemort had decided to eliminate the Potter child, he begged his master to spare the boy's mother, Lily Potter.
+
+Pettigrew's betrayal
+
+Although they had been in hiding since Lily became pregnant, once the Potters were aware that Voldemort was after their son they sought increased security measures. Ultimately, Albus Dumbledore advised them to use the Fidelius Charm; this was an extremely powerful and ancient spell which would conceal the information on their location within the soul of a certain individual.
+
+The Potters did so, originally planning that Sirius Black be their Secret-Keeper, as he would rather die than betray them. However, Sirius felt that this was a rather obvious move, as he and James were best friends, so he suggested that Peter Pettigrew be the Secret-Keeper instead. In the interest of secrecy, the Potters agreed and told no one else, not even Dumbledore.
+
+The attack
+
+Alas, it was this secret, last-minute change that spelled their doom. In a cruel twist of fate, Pettigrew had been working as a double agent for the Death Eaters for over a year and within a week told Lord Voldemort of the Potters' whereabouts. Armed with this information, Voldemort travelled to the village of Godric's Hollow on Hallowe'en, intending to kill Harry and end the threat he posed.
+
+On arrival he encountered a Muggle boy who initially assumed he was wearing a Hallowe'en costume, only to flee in terror on catching sight of Voldemort's face. The Dark Lord briefly contemplated killing the child before deciding it was unnecessary. This decision was likely out of pragmatism to avoid undue attention rather than any qualm of conscience. Voldemort proceeded to the Potter family cottage and with the protections broken, he was able to see James, Lily, and Harry in the same room, James playing with Harry.
+
+Voldemort then entered the house, confronting James as he burst into the hall. James then shouted for his wife to take Harry and flee whilst he held off the Dark Lord. But James had left his wand on the sofa, and he was quickly cut down with the Killing Curse. James dropped "like a marionette whose strings were cut". Voldemort then proceeded upstairs to murder the boy. He found Lily and Harry locked in a room with furniture blocking the door. Faithful to Severus Snape's request, Voldemort commanded the unarmed Lily, who was guarding the cot where Harry sat, to step aside, but Lily refused to move.
+
+Voldemort then warned her several times and offered her the choice to live on, but she refused to stop protecting her son and continued to plead him to kill her instead of Harry. When she did not move for the third time, Voldemort murdered her and then set his sights on the last living member of the Potter family. Harry, who had until that moment assumed it was simply his parents playing games with him, saw Voldemort's glowing red eyes and then started to cry. The crying unnerved Voldemort and he pointed his wand right in the child's face, proceeding to cast the Killing Curse on young Harry.
+
+However, Lily's loving sacrifice protected Harry, something that Voldemort did not realise as he was unable to understand or feel love. When Voldemort performed the curse on Harry, the spell rebounded upon him, obliterating his corporeal form. His wand was blasted from his "corpse" and landed nearby. From his history of murder and self-mutilation of his soul via Horcrux creation, Voldemort's unstable soul shattered and a piece splintered off and attached itself to the only living being left in the cottage, Harry himself. Harry survived with just a lightning bolt-shaped scar on his forehead, and then became famous as "The Boy Who Lived".
+
+Aftermath
+
+The effects of Voldemort's curse went beyond just the two wizards; half of the top floor of the house was blown apart by the rebounding curse. Albus Dumbledore was immediately alerted that something significant had happened. Rubeus Hagrid arrived just as the Muggles began to swarm around and rescued Harry Potter from the ruins. After realising Peter Pettigrew's betrayal, Sirius Black came to the cottage. He offered to take Harry, but Hagrid refused on Dumbledore's orders. Sirius then lent Hagrid his motorbike and went off to seek revenge on Peter.
+
+Sirius tracked Pettigrew down and was determined to kill him in vengeance. However, Pettigrew outwitted Black: confronted by Sirius on a city street, he shouted out that it was Sirius who betrayed the Potters, and then created a huge explosion on the street with an extremely powerful explosive curse (likely the Blasting Curse), killing twelve Muggles in the process and enabling him to fake his own death and escape in his Animagus form, leaving a severed finger behind as evidence. The surviving Muggles who witnessed the event were pretty certain they saw Sirius murder their twelve companions and Pettigrew with the curse, and Fudge claimed to have seen Sirius laughing maniacally at the scene of the crime.
+
+Hagrid took Harry to 4 Privet Drive, where the Dursleys lived, as they are Harry's only remaining living relatives; he spent at least twenty four hours with Harry and dropped him at the Dursleys on Thursday night; Harry was discovered by his aunt Petunia on Friday morning. Harry was then put on the Dursleys' doorsteps by Dumbledore, who had waited on Privet Drive and already used the Deluminator to darken the street. Hagrid kissed Harry and then started to cry, which was immediately stopped by McGonagall, because that would wake the Dursleys.
+
+Also that night, Peter Pettigrew visited and retrieved the Dark Lord's wand, hiding it in an undisclosed location. In the aftermath of the attack, the Muggle police were called to the house, where they found James and Lily Potter, but their child Harry had disappeared without a trace. Sometime later, the house was made invisible to Muggles and left in its ruined condition as a memorial to the Potters and the tragedy that befell them. A sign that depicted that night's events was added in front of the cottage. People would often carve inspirational messages into the wood of the sign, wishing Harry luck and showing their support of him.
+
+The Potter memorial was also erected in the aftermath of Voldemort's attack. The memorial was a statue at the centre of the village square in Godric's Hollow. From a distance, it appeared as an obelisk, carved with the names of people who died in a war. While Muggles could see only this obelisk, a witch or wizard could see that the memorial changes into a statue of a family as they approached: James, Lily, and an infant Harry Potter.
+
+As a portion of Voldemort's soul resided in Harry, the two shared a bond, causing Harry to feel Voldemort's anger or happiness. Also, as the Dark Lord grew more and more powerful, Harry began to see into his mind, seeing Voldemort's thoughts and actions, sometimes through his senses. Harry also dreamed about things Voldemort wanted or things he was obsessing over. In the 1993–1994 school year, whenever Harry was affected by the effects of Dementors of Azkaban, he heard memories of what occurred during the attack before Lily's death. In 1997, while sharing Voldemort's mind, Harry viewed the entire attack at Godric's Hollow, that Voldemort at the time was recalling.

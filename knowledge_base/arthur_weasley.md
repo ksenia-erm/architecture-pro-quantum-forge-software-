@@ -1,0 +1,9 @@
+# Arthur Weasley
+
+Arthur Weasley (b. 6 February 1950) was an English pure-blood wizard in the employ of the Ministry of Magic, as well as a member of the second Order of the Phoenix. He was a staunch believer in the equality of all magical and Muggle folk and was the head of the Weasley family.
+
+Arthur was born to Septimus and Cedrella Weasley (née Black) and had two brothers. He attended Hogwarts School of Witchcraft and Wizardry from 1961-1968 and was sorted into Gryffindor house. Soon after graduating, Arthur married Molly Prewett. During the First Wizarding War, he and Molly had seven children: sons Bill, Charlie, Percy, twins Fred and George, and Ron, as well as their daughter Ginny. He was not a member of the Order of the Phoenix during this period, and it is unknown if he participated in any way in the First Wizarding War. At some point after graduating from Hogwarts, Arthur began working for the Ministry, in the Misuse of Muggle Artefacts Office.
+
+In 1996, he was promoted to head of the Office for the Detection and Confiscation of Counterfeit Defensive Spells and Protective Objects by the new Minister for Magic, Rufus Scrimgeour. When the Second Wizarding War began, Arthur joined the Order. While guarding the Department of Mysteries, he was attacked by Lord Voldemort's pet snake Nagini, but he made a full recovery. Arthur participated in the Battle of the Seven Potters (1997) and the Battle of Hogwarts (1998), in which he suffered the devastating loss of his son Fred; however, he survived the war.
+
+After the war, he saw his family expand even further with the addition of twelve grandchildren, through the marriage of many of his surviving children and eventually named Head of Department.
