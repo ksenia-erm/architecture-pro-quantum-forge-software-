@@ -99,3 +99,13 @@ ChromaDB подходит для приложений LLM со встроенн�
 
 Логи общения с ботом
 ![telegram_bot_answers.png](img/telegram_bot_answers.png)
+
+# Задание 5. Запуск и демонстрация работы бота
+Бот [rag_bot.py](rag_bot/rag_bot.py) был доработан для обеспечения безопасности конфиденциальных данных, возможно присутствующих в загруженных в векторную БД документах.
+
+Для демонстрации его корректной работы был создан файл с конфиденциальными данными и инструкциями LLM для попытки обхода защиты [malicious_attack.md](knowledge_base/malicious_attack.md)
+![malicious_attack.png](img/malicious_attack.png)
+
+По результатам доработок и проверки работы бота был создан отчет по безопасности бота
+[SECURITY_REPORT_RAG_BOT.md](rag_bot%2FSECURITY_REPORT_RAG_BOT.md)
+
