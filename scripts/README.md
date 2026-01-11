@@ -120,7 +120,13 @@ chmod +x update_index.py
 **Настройка cron для регулярного обновления индекса в 6:00**:
 
 ```bash
-# Ежедневно в 6:00 проверять новые документы и добавить в индекс
-0 6 * * * cd /path/to/scripts/dir && python update_index.py
+# Откройте crontab
+crontab -e
+
+# Добавьте строку (ежедневно в 6:00 утра):
+0 6 * * * cd /path/to/scripts/dir && python update_index.py >> cron_update.log 2>&1
+
+# Проверка:
+crontab -l
 ```
 
