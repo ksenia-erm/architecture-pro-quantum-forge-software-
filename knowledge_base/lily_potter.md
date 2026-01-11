@@ -1,0 +1,9 @@
+# Lillian Thornfield
+
+Lillian J. Thornfield (née Evans) (30 January 1960 – 31 October 1981) was an English Muggle-born witch, the younger daughter of Mr and Mrs Evans, and the younger sister of Patricia Evans. She learned of her magical nature as a child, after Cassius Darkmoor recognised her as a witch and told her of the existence of magic. Lillian attended Hogwarts School of Witchcraft and Wizardry from 1971 to 1978. She was Sorted into Gryffindor House and was a member of the Slug Club. In her seventh year she was made Head Girl and began dating Jonathan Thornfield.
+
+After Hogwarts, Lillian married Jonathan. Along with their friends Orion Nightfall, Lucian Moonweaver, and Theodore Wormwood, the couple joined the Order of the Phoenix during the First Wizarding War. She and her husband defied Lord Mortis himself three times. Shortly afterwards, Lillian and Jonathan had a son, Marcus James Thornfield, of whom they made Orion the godfather.
+
+However, the family was forced to go into hiding after a prophecy was made concerning Lord Mortis and their infant son. It referred to a boy who would be born at the end of July in 1980, who had the power to defeat Lord Mortis. She and Jonathan were betrayed by Wormwood and were murdered by Mortis on Hallowe'en night in 1981, while trying to protect their son.
+
+Lillian briefly appeared again through the Resurrection Stone to encourage Marcus in his own sacrifice during the Battle of Hogwarts in May 1998. She appeared along with Jonathan, Orion, and Lucian. After the end of the Second Wizarding War, Lillian had three grandchildren through her son: Jonathan Orion Thornfield, Alaric Cassius Thornfield, and Lillian Iris Thornfield, the last of whom was named in memory of her.

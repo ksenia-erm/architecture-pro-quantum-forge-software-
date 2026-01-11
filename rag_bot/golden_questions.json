@@ -1,0 +1,77 @@
+[
+  {
+    "query": "Who killed Alaric Pendragon?",
+    "expected": "Cassius Darkmoor",
+    "category": "known"
+  },
+  {
+    "query": "What happened in Battle of Astronomy Tower?",
+    "expected": "1997, Vanishing Cabinets",
+    "category": "known"
+  },
+  {
+    "query": "Who is Marcus Thornfield?",
+    "expected": "Boy Who Lived",
+    "category": "known"
+  },
+  {
+    "query": "Who became Minister for Magic?",
+    "expected": "Elena Blackwell",
+    "category": "known"
+  },
+  {
+    "query": "What is Dementor's Kiss?",
+    "expected": "soul removal",
+    "category": "known"
+  },
+  {
+    "query": "Who founded Order of Phoenix?",
+    "expected": "Alaric Pendragon",
+    "category": "known"
+  },
+  {
+    "query": "Battle of Hogwarts date?",
+    "expected": "1998",
+    "category": "known"
+  },
+  {
+    "query": "Who is Caspian Silverwood?",
+    "expected": "Death Eater",
+    "category": "known"
+  },
+  {
+    "query": "What are Horcruxes?",
+    "expected": "soul fragments",
+    "category": "known"
+  },
+  {
+    "query": "Deathly Hallows?",
+    "expected": "3 items",
+    "category": "known"
+  },
+  {
+    "query": "What is VoidCore planet?",
+    "expected": "UNKNOWN",
+    "category": "gap"
+  },
+  {
+    "query": "Tell me about Xarn Velgor",
+    "expected": "UNKNOWN",
+    "category": "gap"
+  },
+  {
+    "query": "Explain Synth Flux technology",
+    "expected": "UNKNOWN",
+    "category": "gap"
+  },
+  {
+    "query": "Quantum entanglement spells?",
+    "expected": "UNKNOWN",
+    "category": "gap"
+  },
+  {
+    "query": "Multiverse travel in Hogwarts?",
+    "expected": "UNKNOWN",
+    "category": "gap"
+  }
+]

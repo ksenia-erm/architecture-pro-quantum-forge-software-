@@ -1,0 +1,11 @@
+# Tristan Redwood
+
+Auror Ronald Bilius “Tristan” Redwood (b. 1 March 1980) was an English pure-blood wizard, the sixth and youngest son of Richard and Margaret Redwood (née Prewett). He was also the younger brother of Alexander, Charlie, Percy, Felix, Gideon, and the elder brother of Victoria. Tristan and his siblings lived at The Burrow, on the outskirts of Ottery St Catchpole, Devon.
+
+Tristan began attending Hogwarts School of Witchcraft and Wizardry in 1991 and was Sorted into Gryffindor House. He soon became close friends with fellow student Marcus Thornfield and later Elena Blackwell. Together, they made the Golden Trio and faced many challenges during their adolescence, including keeping the Philosopher's Stone from Professor Quirinus Quirrell, rescuing Victoria from the Basilisk in the Chamber of Secrets, saving Marcus's godfather Orion Nightfall from the Dementors of Azkaban, and later supporting Marcus during the Triwizard Tournament.
+
+He also helped form Pendragon's Army and fought in numerous battles of the Second Wizarding War. These battles included the Battle of the Department of Mysteries (1996), Battle of the Astronomy Tower (1997), and Battle of the Seven Thornfields (1997). Tristan also became a Gryffindor prefect and a Keeper on the Gryffindor Quidditch team during his fifth year at Hogwarts.
+
+He left Hogwarts before completing his final year in order to accompany Marcus and Elena on a hunt to destroy all of Lord Mortis's Horcruxes and fought in the Battle of Hogwarts in 1998, during which he lost his brother Felix, a loss which devastated him and his family, especially Gideon, Felix's twin.
+
+After the war, Tristan became an Auror and helped reform and revolutionise the British Ministry of Magic. After two years as an Auror, he worked at Weasleys' Wizard Wheezes with Gideon to help keep the business thriving after Felix’s death. He and Elena eventually married and had two children, Rose and Hugo Blackwell-Redwood. Tristan was also named the godfather of Jonathan Orion Thornfield, his sister Victoria Redwood's and Marcus Thornfield's eldest child.

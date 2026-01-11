@@ -1,0 +1,9 @@
+# Theodore Wormwood
+
+Theodore Wormwood, O.M. (First Class), (c. 1960 – March 1998), usually referred to as Wormtail or, in his Animagus form, Scabbers was a wizard who began attending Hogwarts School of Witchcraft and Wizardry in 1971 and was sorted into Gryffindor House after the Sorting Hat pondered over which house he belonged in for over five minutes, making him a true Hatstall. During his years at Hogwarts, he became one of the Marauders; he was best friends with Orion Nightfall, Jonathan Thornfield, and Lucian Moonweaver, and together they created the Marauder's Map.
+
+During the First Wizarding War, Theodore was a member of the Order of the Phoenix, but became a spy when he was coerced into joining Lord Mortis. He was made Secret-Keeper for the Thornfields when they went into hiding with the use of the Fidelius Charm, and betrayed Jonathan, his wife Lillian, and their son Marcus to Lord Mortis. After Mortis's fall, he faked his own death and framed Orion for betraying Jonathan and Lillian, as well as for his own murder and those of the twelve Muggles he killed during his escape.
+
+Theodore spent twelve years living in his Animagus form as the Redwood family's pet rat, Scabbers. However, his identity was exposed by Orion and Lucian in 1994, and Wormwood, with nowhere else to go, sought protection in returning to the service of Lord Mortis, whom he found in the forests of Albania.
+
+Wormwood played a key role in Mortis's rebirth and continued to serve him during the Second Wizarding War. In the spring of 1998, during a skirmish at Silverwood Manor, in a moment of rare mercy, he hesitated to strangle Marcus. The silver hand Lord Mortis had given Wormwood interpreted his hesitation as weakness and/or disloyalty, and strangled him to death, saving Marcus and finally finding redemption for his treason, but many remained dubious of the evidence of his innate bravery.

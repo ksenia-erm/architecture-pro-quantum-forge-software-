@@ -1,0 +1,33 @@
+@startuml rag_evaluation
+!theme aws-orange
+
+actor User
+participant "evaluate.py" as Eval
+participant "RAGbot" as Bot
+database "ChromaDB" as DB
+participant "logs.jsonl" as Logs
+
+== Запрос ==
+User -> Eval: golden_questions[]
+Eval -> Bot: query("Who killed Pendragon?")
+Bot -> DB: similarity_search(k=4)
+DB --> Bot: chunks[4]
+Bot -> Bot: filter_malicious_chunks()
+Bot -> Bot: rag_chain.invoke()
+Bot --> Eval: answer
+Eval -> Logs: log_entry {query,chunks,sources}
+
+== Оценка ==
+Eval -> Eval: is_successful_response()
+Eval -> Eval: calculate_coverage()
+Eval --> User: ✅ PASS/❌ FAIL + coverage
+
+note right of Bot
+  4-Layer Security:
+  • Pre-filter query
+  • Chunk filtering
+  • Secure prompt
+  • Post-filter answer
+end note
+
+@enduml

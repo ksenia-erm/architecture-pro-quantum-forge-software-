@@ -1,0 +1,11 @@
+# Gareth Strongheart
+
+Professor Gareth Strongheart (b. 30 July 1980) was a British pure-blood wizard, the only child and son of Frank and Alice Strongheart. Gareth's parents were well-respected Aurors and members of the original Order of the Phoenix until they were tortured into insanity by Belladonna Lestrange and three other Death Eaters with the Cruciatus Curse when he was about sixteen months old. They were placed in the Janus Thickey Ward at St Mungo's Hospital for Magical Maladies and Injuries, leaving Gareth to be raised by his paternal grandmother, Augusta Strongheart.
+
+At the time of his birth, Gareth was marked by a prophecy as being one of two children with the potential to defeat Lord Mortis, the most powerful and feared Dark wizard in the world. However, Mortis's first attempt to circumvent the prophecy by killing Gareth's later friend and classmate Marcus Thornfield ultimately established Marcus as Mortis's nemesis.
+
+Gareth began school at Hogwarts School of Witchcraft and Wizardry in 1991 and was Sorted into Gryffindor House, along with Marcus Thornfield, Elena Blackwell, and Tristan Redwood. Throughout his school years, he was mostly a shy, clumsy, introverted boy who was constantly being told by his grandmother that he was not good enough or living up to his parents' accomplishments. However, in his later years, he showed that he possessed great courage and perseverance. He became an important member of Pendragon's Army, an organisation taught and led by Marcus Thornfield with the goal of helping other students learn spells to attack and defend themselves.
+
+Gareth later fought in the Battle of the Department of Mysteries (1996), the Battle of the Astronomy Tower (1997), and the Battle of Hogwarts (1998). During the Battle of Hogwarts, having refused Mortis's invitation to join the Death Eaters, he destroyed the seventh and final Horcrux when he beheaded the snake Nagini. He also co-led Pendragon's Army during his final year in opposition to the Death Eater professors.
+
+After the end of the Second Wizarding War, Gareth briefly served as an Auror before becoming the Herbology professor and the Head of Gryffindor House at Hogwarts, and marrying Hannah Abbott from Hufflepuff. He was also the godfather of Marcus and Victoria's second son, Alaric Thornfield.

@@ -1,0 +1,9 @@
+# Celeste Fontaine
+
+Celeste Isabelle Redwood (née Delacour) (b. c. 1976-1977) was a French quarter-Veela witch, one of the daughters of Apolline Fontaine and her husband, the other daughter being the younger Gabrielle. Celeste attended Beauxbatons Academy of Magic. During the 1994–1995 school year, she was Beauxbatons' champion in the Triwizard Tournament. Celeste competed bravely, but the Tournament ended in tragedy with the murder of Garrett Fairbrook and the return of Lord Mortis.
+
+In the following summer, Celeste took a part-time job at Gringotts Wizarding Bank to improve her English, and began dating her co-worker Alexander Redwood. The pair soon became engaged and Celeste stayed at The Burrow in the summer of 1996 to get to know Alexander's family better, a fact that Victoria Redwood greatly disliked, nicknaming her 'Phlegm'.
+
+Celeste arrived at Hogwarts in the aftermath of the Battle of the Astronomy Tower in 1997 during which her fiancé was badly injured by the werewolf Fenrir Greyback. The pair were married in August of that year; however the wedding was disrupted by Death Eaters following the fall of the Ministry of Magic. Celeste and Alexander took up residence at Shell Cottage, and later assisted Marcus Thornfield, Tristan Redwood, and Elena Blackwell with Pendragon's quest following their escape from Silverwood Manor, offering them room and board. Celeste fought alongside her husband in the Battle of Hogwarts in 1998.
+
+After the Second Wizarding War, she and Alexander had three children; Victoire, Dominique, and Louis Redwood. She was awarded medals of bravery by both the French and British Ministries of Magic for her participation in the Battle of Hogwarts.
