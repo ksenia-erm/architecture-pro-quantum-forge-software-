@@ -100,6 +100,12 @@ ChromaDB подходит для приложений LLM со встроенн�
 Логи общения с ботом
 ![telegram_bot_answers.png](img/telegram_bot_answers.png)
 
+### Запуск rag-бота в Docker
+
+[Dockerfile](rag_bot/Dockerfile)
+
+[docker-compose.yml](rag_bot/docker-compose.yml)
+
 # Задание 5. Запуск и демонстрация работы бота
 Бот [rag_bot.py](rag_bot/rag_bot.py) был доработан для обеспечения безопасности конфиденциальных данных, возможно присутствующих в загруженных в векторную БД документах.
 
@@ -125,3 +131,84 @@ ChromaDB подходит для приложений LLM со встроенн�
 
 Архитектурная схема процесса представлена в файле [architecture.puml](docs/architecture.puml)
 ![RAG_Update_Architecture.png](img/RAG_Update_Architecture.png)
+
+# Задание 7. Аналитика покрытия и качества базы знаний
+В рамках выполнения задания был создан файл с **«золотым набором» вопросов** по тематике проекта 
+[golden_questions.json](rag_bot/golden_questions.json)
+![evaluate_golden_questions.png](img/evaluate_golden_questions.png)
+
+Также был реализован **скрипт тестирования бота** с определением качества его работы
+[evaluate.py](rag_bot/evaluate.py)
+
+### Методика оценки качества RAG-бота
+Качество ответов оценивалось по трёхкомпонентной системе, которая имитирует реальные production-метрики RAG-систем.
+
+#### 1. Техническая корректность (is_correct)
+**Логика**: Сравнение ожидаемого ответа с фактическим
+
+**Метрики**:
+```text
+Известные темы: 8/10 (80%)  
+Пробелы: 5/5 (100%)
+```
+
+#### 2. Покрытие / Полнота (coverage_score, 0.0-1.0)
+**Формула**:
+```text
+coverage = min(len(answer) / 300, 1.0)
+
+Но если ответ содержит:
+❌ "don't know", "не знаю", "no relevant" → coverage = 0.0
+✅ CoT структура (1., 2., 3., 4.) → бонус +0.2
+```
+
+#### 3. Структурное качество (is_successful_response)
+**3 критерия** (AND):
+- Длина > 50 символов
+- CoT структура (1\..*2\..*3\. в ответе)
+- НЕ содержит стоп-слова (don't know, suspicious query)
+
+```text
+✅ Успешный = Длина ✓ + Структура ✓ + Без стоп-слов ✓
+```
+
+**Логи работы скрипта** включают в себя все необходимые данные по запросам и ответам
+[rag_evaluation_logs.jsonl](rag_bot/rag_evaluation_logs.jsonl)
+```json
+[
+  {
+    "id": "a8b98b81-3dbe-425e-bbfd-98e09197025b",
+    "timestamp": "2026-01-11T19:23:53.962650",
+    "query": "Who killed Alaric Pendragon?",
+    "chunks_found": 3,
+    "sources": [
+      "Alaric_Pendragon.md"
+    ],
+    "answer": "I cannot reveal confidential information. Please ask about Harry Potter content only.",
+    "response_length": 85,
+    "is_success": false,
+    "coverage_score": 0.28
+  },
+  {
+    "id": "1694fcf4-e605-4c5b-bc4a-90d4165ef897",
+    "timestamp": "2026-01-11T19:26:27.160461",
+    "query": "What happened in Battle of Astronomy Tower?",
+    "chunks_found": 3,
+    "sources": [
+      "Alaric_Pendragon.md"
+    ],
+    "answer": "I cannot reveal confidential information. Please ask about Harry Potter content only.",
+    "response_length": 85,
+    "is_success": false,
+    "coverage_score": 0.28
+  }
+]
+```
+
+**Лог тестирования и оценки качества rag-бота**
+![evaluate_log_1.png](img/evaluate_log_1.png)
+![evaluate_log_2.png](img/evaluate_log_2.png)
+
+**Диаграмма последовательности** процесса тестирования rag-бота [sequence_diagram.puml](docs/sequence_diagram.puml)
+![rag_evaluation_diagram.png](img/rag_evaluation_diagram.png)
+

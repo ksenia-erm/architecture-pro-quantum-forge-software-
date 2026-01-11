@@ -1,0 +1,19 @@
+version: '3.8'
+
+services:
+  rag-bot:
+    build: .
+    ports:
+      - "8080:8080"  # Telegram bot
+    volumes:
+      - ./chroma_db:/app/chroma_db
+      - ./docs:/app/docs
+      - ./knowledge_base:/app/knowledge_base
+    environment:
+      - OLLAMA_HOST=0.0.0.0:11434
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8080/health"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
