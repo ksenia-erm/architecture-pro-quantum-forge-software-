@@ -59,6 +59,7 @@ ChromaDB подходит для приложений LLM со встроенн�
 Имена персонажей были заменены на фейковые сгенерированные новые имена с сохранением, по-возможности, смысловой нагрузки связей между ними в представленных текстах.
 
 Для хранения соответствий реальных имен и новых сгенерированных имен персонажей был создан файл [terms_map.json](knowledge_base/terms_map.json)
+![terms_map.png](img/terms_map.png)
 
 Далее реальные имена персонажей были заменены с помощью поиска и замены на сгенерированные (историю замен можно просмотреть в коммитах ветки rag).
 
@@ -72,6 +73,7 @@ ChromaDB подходит для приложений LLM со встроенн�
 2. Преобразование текстов в чанки (500 символов overlap 50), генерация эмбеддингов и сохранение ChromaDB в ./chroma_db/
     - было сгенерировано 399 чанков из 31 файла тестов с помощью  [скрипта на Python](scripts/build_index.py)
     - время генерации: ~20 сек на CPU i7
+   ![create_chroma_db.png](img/create_chroma_db.png)
     - для проверки поиска был создан [скрипт test_search.py](scripts/test_search.py), результат в файле ![test_search_screen.png](img/test_search_screen.png)
 
 # Задание 4. Реализация RAG-бота с техниками промптинга
@@ -90,3 +92,10 @@ ChromaDB подходит для приложений LLM со встроенн�
 
 Лог работы локальной LLM для этого кейса
 ![ollama_generate_for_repl.png](img/ollama_generate_for_repl.png)
+
+Также был реализован простой telegram-bot [telegram_bot.py](rag_bot/telegram_bot.py)
+Логи старта бота
+![telegram_bot_started.png](img/telegram_bot_started.png)
+
+Логи общения с ботом
+![telegram_bot_answers.png](img/telegram_bot_answers.png)
