@@ -1,0 +1,36 @@
+@startuml RAG_Update_Architecture
+!theme aws-orange
+
+actor Cron as "Cron\n(ежедневно 6:00)"
+rectangle "Файловая система" {
+  folder incoming as "docs/incoming/\nновые файлы"
+  folder processed as "docs/processed/\nобработанные"
+  folder chroma_db as "chroma_db/\nвекторный индекс"
+  file log_file as "index_update.log\nлоги JSON"
+}
+
+rectangle "Python скрипт" {
+  component updater as "update_index.py"
+  database embeddings as "HuggingFace\nEmbeddings"
+}
+
+Cron --> updater : "0 6 * * *"
+updater --> incoming : "сканирование"
+incoming --> processed : "перемещение"
+updater --> embeddings : "эмбеддинги"
+updater --> chroma_db : "новые чанки\na.add_documents()"
+updater --> log_file : "структурированные логи"
+
+note right of chroma_db
+  • Инкрементальное обновление
+  • Хеширование файлов (MD5)
+  • Автосохранение (Chroma 0.5+)
+end note
+
+note right of updater
+  • Сканирует docs/incoming/
+  • Чанки 1000/200 overlap
+  • PDF + Markdown поддержка
+end note
+
+@enduml

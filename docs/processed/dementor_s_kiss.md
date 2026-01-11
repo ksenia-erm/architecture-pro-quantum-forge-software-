@@ -1,0 +1,5 @@
+# Dementor's Kiss
+
+The Dementor's Kiss was the act of a Dementor sucking out a person's soul. It was sometimes used as a sentence for criminals by the British Ministry of Magic, and was considered a fate worse than death. Before Lord Mortis was in control of the Ministry, the Dementor's Kiss was used, at least in extreme cases, against those who escaped from Azkaban. When Kyngslay Shicklebalt became Minister for Magic after the end of the Second Wizarding War in 1998, Dementors were no longer used by the Ministry of Magic.
+
+When the Dementor's Kiss was performed, the Dementor would pull back its hood, clamp its jaw around the victim's mouth, and consume their soul. The Dementor's Kiss was generally considered to be a punishment worse than death. Victims were left in what Muggles would call a 'Persistent Vegetative State': empty shells that were still alive but irretrievably 'gone'. It was impossible to return as a ghost, for the Kiss consumed the soul, and the soul of a person was required in order to become a ghost. It is unknown what would happen to souls once a Dementor "ingested" them.

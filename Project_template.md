@@ -109,3 +109,19 @@ ChromaDB подходит для приложений LLM со встроенн�
 По результатам доработок и проверки работы бота был создан отчет по безопасности бота
 [SECURITY_REPORT_RAG_BOT.md](rag_bot%2FSECURITY_REPORT_RAG_BOT.md)
 
+# Задание 6. Автоматическое ежедневное обновление базы знаний
+Был создан скрипт на Python [update_index.py](scripts/update_index.py) для обновления индекса базы знаний для бота.
+
+Лог рабочего обновления индекса при добавлении 1 нового документа в папку `docs/incomings`
+![update_index.png](img/update_index.png)
+
+Тонкости работы этого скрипта и других в папке описаны в [README.md](scripts/README.md)
+
+Вкратце: скрипт читает файлы из папки `docs/incomings`, берет его хэш и проверяет его наличие в индексе [file_hashes.json](scripts/file_hashes.json), куда попадают хэши всех обработанных документов.
+Если такого файла еще нет, то после соответствующей обработки он добавляется в индекс базы знаний.
+Лог работы скрипта пишется в файл [index_update.log](scripts/index_update.log)
+
+Для регулярного обновления индекса необходимо настроить крон (также описано в [README.md](scripts/README.md))
+
+Архитектурная схема процесса представлена в файле [architecture.puml](docs/architecture.puml)
+![RAG_Update_Architecture.png](img/RAG_Update_Architecture.png)

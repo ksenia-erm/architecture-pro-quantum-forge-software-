@@ -1,0 +1,18 @@
+# Core RAG
+langchain==0.3.1
+langchain-community==0.2.10
+langchain-huggingface==0.1.0
+langchain-ollama==0.3.3
+langchain-chroma==0.1.4
+langchain-text-splitters==0.3.1
+
+# Vector DB + Embeddings
+chromadb==0.5.3
+sentence-transformers==3.1.1
+
+# Document loaders
+pypdf==5.0.1
+python-dotenv==1.0.1
+
+# Telegram
+python-telegram-bot==21.4
